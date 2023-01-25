@@ -1,5 +1,7 @@
 package main
 
+// キャンセルを通知する
+
 import (
 	"context"
 	"fmt"
